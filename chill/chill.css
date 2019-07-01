@@ -1,0 +1,37 @@
+body{
+background-image: url("../assets/images/chill.jpg");
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+#area{
+color:black;
+text-align: center;
+font-size: x-large;
+}
+
+#allbutton{ text-emphasis: center;
+   font-size: x-large;
+   color: black;
+}
+
+#map{
+    height: 50vh;
+    width: 150vh;
+    position: absolute;
+    left: 15%;
+}
+
+#instaimg img{
+
+    height: auto;
+    width: 300px;
+    border-radius: 70%;
+  }
+  
+#instaimg{
+     margin-top: 400px;
+  }
