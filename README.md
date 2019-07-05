@@ -6,11 +6,13 @@ What's your vibe is an application to help people find entertainment based on th
 
 
 <h2>Technologies Used</h2>
-1.  Google Places API
-2.  Google Maps API
-3.  Instagram API
-4.  Bootstrap
-5.  Ajax
+<ol>
+<li>Google Places API</li>
+<li>Google Maps API</li>
+<li>Instagram API</li>
+<li>Bootstrap</li>
+<li>Ajax</li>
+</ol>
 
 <h3>Further Notes</h3>
 To run the application both an api key and instagram token are required and are not included in the repository for security issues.
