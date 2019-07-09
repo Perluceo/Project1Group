@@ -1,7 +1,7 @@
 $(document).ready(function () {
     console.log("ready!");
 
-    var googleURL = 'https://maps.googleapis.com/maps/api/js?key=apiKey';
+    var googleURL = 'https://maps.googleapis.com/maps/api/js?key=KyMCMLw8dlFq5eevQ1T3zdvzu30E2ab9';
 
     var locations = {
         nbutton: [
